@@ -2,6 +2,7 @@
 
 ## An Overview and Expansion of Research into Single Slot Finality Consensus Mechanisms
 
+**NOTE: THIS PROJECT PROPOSAL IS A DRAFT, THE FINAL DEVELOPMENT UPDATE, WITH LINKS TO ACCOMPLISHED WORK, CAN BE FOUND [HERE](https://lincolnm.notion.site/Final-Update-SSF-Research-Expansion-259e908dd4504f248ef4d51aeca83bdc?pvs=4)**
 ### Motivation
 
 The field of Single Slot Finality (SSF) is at a crucial juncture. With the increasing demands on Ethereum, there is a clear need for more efficient and faster consensus mechanisms. SSF offers a solution by aiming for nearly instantaneous transaction verifications, leading to an improved user experience, prevention of reorganizations incentivized by MEV, and the ability to prove liveness, among other advantages.
